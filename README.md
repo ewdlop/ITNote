@@ -127,3 +127,7 @@ Here’s additional context about RAID configurations, less common RAID levels, 
 - **JBOD**: Archiving large, non-critical data.
 
 Choosing the right RAID level depends on your specific needs for performance, redundancy, storage efficiency, and budget. If you have more specific requirements, feel free to ask!
+
+# Dev Home (Preview) 12/21/2024
+
+<img width="1430" alt="image" src="https://github.com/user-attachments/assets/61f56fb5-b990-4edc-b3d9-d6076771d292" />
